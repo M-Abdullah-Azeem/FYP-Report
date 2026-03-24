@@ -1,0 +1,28 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Summary of Literature Review}}{32}{table.caption.3}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Register User Use Case }}{36}{table.caption.4}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Login User Use Case }}{37}{table.caption.5}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Navigate User Use Case }}{37}{table.caption.6}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Data Dictionary}}{41}{table.caption.11}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7.1}{\ignorespaces User Registration}}{59}{table.caption.15}%
+\contentsline {table}{\numberline {7.2}{\ignorespaces User Login}}{59}{table.caption.16}%
+\contentsline {table}{\numberline {7.3}{\ignorespaces Camera Permission and Navigation Initialization}}{60}{table.caption.17}%
+\contentsline {table}{\numberline {7.4}{\ignorespaces Real-Time Obstacle Detection}}{60}{table.caption.18}%
+\contentsline {table}{\numberline {7.5}{\ignorespaces Audio Guidance Response}}{61}{table.caption.19}%
+\contentsline {table}{\numberline {7.6}{\ignorespaces Haptic Feedback Alert}}{61}{table.caption.20}%
+\contentsline {table}{\numberline {7.7}{\ignorespaces Safe Direction Suggestion}}{62}{table.caption.21}%
+\contentsline {table}{\numberline {7.8}{\ignorespaces Navigation Session Stop}}{62}{table.caption.22}%
+\contentsline {table}{\numberline {7.9}{\ignorespaces Functional Test Case Metrics}}{63}{table.caption.23}%
+\contentsline {table}{\numberline {7.10}{\ignorespaces Non-Functional Test Case Metrics}}{63}{table.caption.24}%
+\contentsline {table}{\numberline {7.11}{\ignorespaces Requirements Traceability Matrix}}{64}{table.caption.25}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {9.1}{\ignorespaces Model Comparison Across All Metrics}}{72}{table.caption.26}%
+\contentsline {table}{\numberline {9.2}{\ignorespaces Average Precision for Top 10 COCO Classes}}{72}{table.caption.27}%
+\addvspace {10\p@ }
